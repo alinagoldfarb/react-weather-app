@@ -12,7 +12,7 @@ root.render(
   <StrictMode>
     <div className="App">
       <Weather />
-      <p>https://github.com/alinagoldfarb/react-weather-app</p>
+      <a>https://github.com/alinagoldfarb/react-weather-app</a>
 
     </div>
   </StrictMode>
